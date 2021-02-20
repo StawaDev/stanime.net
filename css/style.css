@@ -1,0 +1,236 @@
+  
+body{
+  background: #f2f2f2;
+}
+
+.logo{
+  position: absolute;
+  top: 3%;
+  left: 10%;
+  font-size: large;
+  font-family: 'Signika', sans-serif;
+  letter-spacing: 2px;
+}
+
+.toplike {
+  letter-spacing: 1px;
+  font-size: 40px;
+  font-family: 'Bebas Neue', cursive;
+  position: absolute;
+  top: 20%;
+  left: 65%;
+}
+
+.topview {
+  letter-spacing: 1px;
+  font-size: 40px;
+  font-family: 'Bebas Neue', cursive;
+  position: absolute;
+  top: 20%;
+  left: 15%;
+}
+
+.top1 {
+  font-family: 'Open Sans Condensed', sans-serif; 
+  font-size: 25px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 35%;
+  left: 15%;
+}
+
+.video {
+  position: absolute;
+  width: 10%;
+  top: 10%;
+  left: 2%;
+}
+
+.rating {
+  font-family: 'PT Sans Narrow', sans-serif;
+  position: absolute;
+  top: 130%;
+  left: 5%;
+}
+
+.seasons {
+  position: absolute;
+  top: 65%;
+  font-family: 'PT Sans Narrow', sans-serif;
+  left: 78%;
+  font-size: large;
+  letter-spacing: 0px;
+}
+
+.eps {
+  position: absolute;
+  font-family: 'Cairo', sans-serif;
+  top: 69%;
+  left: 70%;
+  letter-spacing: 0px;
+}
+
+.eps1 {
+  position: absolute;
+  font-family: 'Cairo', sans-serif;
+  top: 77%;
+  left: 70%;
+  color: black;
+  letter-spacing: 0px;
+}
+
+.eps2 {
+  position: absolute;
+  font-family: 'Cairo', sans-serif;
+  top: 87%;
+  left: 70%;
+  color: black;
+  letter-spacing: 0px;
+}
+
+.eps3 {
+  position: absolute;
+  font-family: 'Cairo', sans-serif;
+  top: 97%;
+  left: 70%;
+  color: black;
+  letter-spacing: 0px;
+}
+
+.eps4 {
+  position: absolute;
+  font-family: 'Cairo', sans-serif;
+  top: 107%;
+  left: 70%;
+  color: black;
+  letter-spacing: 0px;
+}
+
+.eps5 {
+  position: absolute;
+  font-family: 'Cairo', sans-serif;
+  top: 117%;
+  left: 70%;
+  color: black;
+  letter-spacing: 0px;
+  height: 75%;
+}
+
+.eps6 {
+  position: absolute;
+  font-family: 'Cairo', sans-serif;
+  top: 127%;
+  left: 70%;
+  color: black;
+  letter-spacing: 0px;
+}
+
+.eps7 {
+  position: absolute;
+  font-family: 'Cairo', sans-serif;
+  top: 137%;
+  left: 70%;
+  color: black;
+  letter-spacing: 0px;
+}
+
+.eps8 {
+  position: absolute;
+  font-family: 'Cairo', sans-serif;
+  top: 147%;
+  left: 70%;
+  color: black;
+  letter-spacing: 0px;
+}
+
+.eps9 {
+  position: absolute;
+  font-family: 'Cairo', sans-serif;
+  top: 157%;
+  left: 70%;
+  color: black;
+  letter-spacing: 0px;
+}
+
+.new {
+  position: absolute;
+  top: 10%;
+  left: 72%;
+}
+
+.title {
+  position: absolute;
+  top: 87%;
+  left: 5%;
+  letter-spacing: 0px;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.info1 {
+  letter-spacing: 0px;
+  color: rgb(105, 144, 253);
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  top: 92%;
+  left: 7%;
+  height: 15%;
+  width: 33%;
+}
+
+.info2 {
+  letter-spacing: 0px;
+  color: rgb(105, 144, 253);
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  top: 100%;
+  left: 7%;
+  height: 30%;
+  width: 15%;
+}
+
+.div1 {
+
+  font-size: large;
+  position: absolute;
+  top: 3%;
+  left: 85%;
+  letter-spacing: 2px;
+  font-family: 'Pathway Gothic One', sans-serif;
+}
+
+.div2 {
+  font-size: large;
+  position: absolute;
+  top: 3%;
+  left: 75%;
+  letter-spacing: 2px;
+  font-family: 'Pathway Gothic One', sans-serif;
+}
+
+.logo:hover {
+  color: aqua;
+}
+
+
+.footer {
+  background-color: black;
+  color: white;
+  top: 100;
+  font-family: 'Kanit', sans-serif;
+  letter-spacing: 2px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 8%;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+}
+
+a:hover {
+  color: #72ddf8;
+}
+
+a {
+  color: black;
+}
